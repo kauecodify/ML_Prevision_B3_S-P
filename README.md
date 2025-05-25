@@ -85,13 +85,6 @@ Arquivo salvo em: C:\Users\[usuário]\Desktop\dados_mercado_inteligente.xlsx
 - `dados_mercado_inteligente.xlsx`: Dados completos salvos na área de trabalho
 - `historico_analises.json` (opcional): Histórico de análises (se implementado)
 
-## 🔄 Atualizações Futuras
-
-- [ ] Adicionar mais ativos
-- [ ] Implementar outros modelos (Random Forest, LSTM)
-- [ ] Criar sistema de alertas
-- [ ] Adicionar interface gráfica
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
